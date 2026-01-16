@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>uk.co.deveroonie</groupId>
-    <artifactId>hyvote-java</artifactId>
+    <artifactId>hyvotejava</artifactId>
     <version>1.0.1</version>
     <name>Hyvote Java Client</name>
     <description>Java client library for the Hyvote Hytale plugin</description>
